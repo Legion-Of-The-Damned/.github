@@ -35,7 +35,7 @@
 
 ## 🔗 Быстрые ссылки
 
-- [Главная страница клана](https://github.com/Legion-Of-The-Damned)  
+- [Главная страница клана](https://github.com/Legion-Of-The-Damned?view_as=public)  
 - [Void Sentinel](https://github.com/Legion-Of-The-Damned/void-sentinel)  
 - [Legion Beacon](https://github.com/Legion-Of-The-Damned/Legion-Beacon)  
 

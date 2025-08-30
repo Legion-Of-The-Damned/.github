@@ -10,7 +10,7 @@
 | Проект | Описание | Ссылка |
 |--------|----------|--------|
 | **Void Sentinel** | Бот для дуэлей и статистики на Discord | [GitHub](https://github.com/Legion-Of-The-Damned/void-sentinel) |
-| **Legion Nexus** | Программа для вебхуков Discord | [GitHub](https://github.com/Legion-Of-The-Damned/legion-nexus) |
+| **Legion Beacon** | Программа для вебхуков Discord | [GitHub]([https://github.com/Legion-Of-The-Damned/Legion-Beacon) |
 
 ---
 
@@ -37,7 +37,7 @@
 
 - [Главная страница клана](https://github.com/Legion-Of-The-Damned)  
 - [Void Sentinel](https://github.com/Legion-Of-The-Damned/void-sentinel)  
-- [Legion Nexus](https://github.com/Legion-Of-The-Damned/legion-nexus)  
+- [Legion Beacon](https://github.com/Legion-Of-The-Damned/Legion-Beacon)  
 
 ---
 
